@@ -395,10 +395,4 @@ docker logs alloy 2>&1 | grep "start tailing" | head -10
 ls -lh ~/monitoring-stack/loki-data/chunks/
 ```
 
-**Montrer :** Blocs de logs Loki stockés sur disque confirmant la persistance
-```
 
-
-| 📝 Captures d'écran restructurées | Liste détaillée avec commandes pour reproduire |
-
-Tu peux maintenant copier-coller ce contenu dans `docs/sprints/sprint-6.md`. Dis-moi "done" et on passe au Sprint 7 !
